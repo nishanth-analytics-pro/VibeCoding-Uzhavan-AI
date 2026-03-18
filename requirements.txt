@@ -1,0 +1,13 @@
+streamlit
+google-generativeai
+pillow
+requests
+streamlit-mic-recorder
+SpeechRecognition
+gTTS
+pandas
+plotly
+folium
+streamlit-folium
+scikit-learn
+numpy

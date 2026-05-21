@@ -34,4 +34,4 @@
 The project is currently a functional prototype, being iterated upon for higher diagnostic precision and expanded crop coverage.
 
 ---
-**Developer**: Prasant (Nishanth M) | Data Analyst | AI Club President.
+**Developer**: Nishanth M | Data Analyst | AI Club President.
